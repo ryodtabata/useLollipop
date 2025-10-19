@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/useLollipop/static/css/main.84a78bad.css",
-    "main.js": "/useLollipop/static/js/main.6c67bbef.js",
-    "static/js/453.369bc2bb.chunk.js": "/useLollipop/static/js/453.369bc2bb.chunk.js",
-    "static/media/iamge2.webp": "/useLollipop/static/media/iamge2.39b27251da63d20df060.webp",
-    "index.html": "/useLollipop/index.html",
-    "main.84a78bad.css.map": "/useLollipop/static/css/main.84a78bad.css.map",
-    "main.6c67bbef.js.map": "/useLollipop/static/js/main.6c67bbef.js.map",
-    "453.369bc2bb.chunk.js.map": "/useLollipop/static/js/453.369bc2bb.chunk.js.map"
+    "main.css": "/static/css/main.84a78bad.css",
+    "main.js": "/static/js/main.ba596e74.js",
+    "static/js/453.369bc2bb.chunk.js": "/static/js/453.369bc2bb.chunk.js",
+    "static/media/iamge2.webp": "/static/media/iamge2.39b27251da63d20df060.webp",
+    "index.html": "/index.html",
+    "main.84a78bad.css.map": "/static/css/main.84a78bad.css.map",
+    "main.ba596e74.js.map": "/static/js/main.ba596e74.js.map",
+    "453.369bc2bb.chunk.js.map": "/static/js/453.369bc2bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84a78bad.css",
-    "static/js/main.6c67bbef.js"
+    "static/js/main.ba596e74.js"
   ]
 }
